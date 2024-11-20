@@ -86,7 +86,7 @@
 * Evolved Policy Gradients [[pdf]](https://arxiv.org/abs/1802.04821) [[code]](https://github.com/openai/EPG)
 * Gotta Learn Fast: A New Benchmark for Generalization in RL [[pdf]](https://arxiv.org/abs/1804.03720)
 * Variance Reduction for Policy Gradient with Action-Dependent Factorized Baselines [[pdf]](https://arxiv.org/abs/1803.07246) 
-* Improving GANs Using Optimal Transport [[https://arxiv.org/abs/1803.05573]] \
+* Improving GANs Using Optimal Transport [[pdf]](https://arxiv.org/abs/1803.05573)
 * On First-Order Meta-Learning Algorithms [[pdf]](https://arxiv.org/abs/1803.02999) [[code]](https://github.com/openai/supervised-reptile)
 * Some Considerations on Learning to Explore via Meta-Reinforcement Learning [[pdf]](https://arxiv.org/abs/1803.01118) 
 * Multi-Goal Reinforcement Learning: Challenging Robotics Environments and Request for Research [[pdf]](https://arxiv.org/abs/1802.09464) 
